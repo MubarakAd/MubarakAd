@@ -5,8 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubarakad" alt="mubarakad" /></a> </p>
 
+- 🔭 I’m currently working on **nextjs and nodejs**
+
+- 🌱 I’m currently learning **nestjs**
+
+- 💬 Ask me about **nextjs,react,nodejs and django**
+
+- 📫 How to reach me **mubaarakadem@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iSRnsfmNYRE0rWGng9Qt9Tk-jRL6HJb-/view?usp=drive_link](https://drive.google.com/file/d/1iSRnsfmNYRE0rWGng9Qt9Tk-jRL6HJb-/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/mucrazy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mucrazy21" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mucrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mucrazy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mubarakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mubarakad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
