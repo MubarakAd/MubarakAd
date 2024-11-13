@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarakad&label=Profile%20views&color=0e75b6&style=flat" alt="mubarakad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubarakad" alt="mubarakad" /></a> </p>
-
 - 🔭 I’m currently working on **nextjs and nodejs**
 
 - 🌱 I’m currently learning **nestjs**
